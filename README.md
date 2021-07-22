@@ -1,6 +1,6 @@
 # BankistApp
 
-A banking simulation app, the name means "Bank" and "Minimalism"
+A banking simulation app, the name means "Bank" and "Minimalist"
 
 ## Usage
 
